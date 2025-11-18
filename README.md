@@ -287,4 +287,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any issues or questions:
 
 - **GitHub Issues**: Open an issue on this repository
-- **Email**: Contact at [96j0o1ivb@mozmail.com](mailto:kumarmangalam1123@gmail.com)
+- **Email**: Contact at(mailto:kumarmangalam1123@gmail.com)
